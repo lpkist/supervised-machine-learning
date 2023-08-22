@@ -1,4 +1,5 @@
 The techniques include:
 - KNN (K-Nearest Neighbors)
-- Logistic regression
-- Multiclass classification
+- Logistic regression (and other link functions)
+- Linear Discriminant Analysis (LDA)
+- Quadratic Discriminant Analysis (QDA)
